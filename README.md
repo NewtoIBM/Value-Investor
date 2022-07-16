@@ -12,15 +12,15 @@ A set of portfolio companies trading data from emerging markets. Each company st
 
 
 # Table of Contents
-1 Data importing and exploration
+1 Data Importing and Exploration
 
 2 Facebook Prophet
 
-3 Bollinger bands
+3 Bollinger Bands
 
 4 LSTM
 
-5 Capital returns
+5 Capital Returns
 
 6 GRU
 
@@ -34,6 +34,6 @@ A set of portfolio companies trading data from emerging markets. Each company st
 
 11 Bayesian Optimization
 
-12 Hyper optimization
+12 Hyper Optimization
 
 13 Conclusion
