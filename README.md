@@ -13,15 +13,27 @@ A set of portfolio companies trading data from emerging markets. Each company st
 
 # Table of Contents
 1 Data importing and exploration
+
 2 Facebook Prophet
+
 3 Bollinger bands
+
 4 LSTM
+
 5 Capital returns
+
 6 GRU
+
 7 ARIMAX
+
 8 Classification Model
+
 9 Calibration of Probabilities
+
 10 TPOT
-11 Bayesian Optimization 
+
+11 Bayesian Optimization
+
 12 Hyper optimization
+
 13 Conclusion
