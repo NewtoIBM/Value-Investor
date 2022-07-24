@@ -36,4 +36,6 @@ A set of portfolio companies trading data from emerging markets. Each company st
 
 12 Hyper Optimization
 
-13 Conclusion
+13 Appendix ValueInvestor 2
+
+14 Conclusion
